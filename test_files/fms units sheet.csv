@@ -1,0 +1,11 @@
+unit_name,unit_number,project_id,type,status,area,area_unit,bedrooms,bathrooms,price,currency,description,last_maintenance_date,next_maintenance_date,current_lease_start,current_lease_end
+"Deluxe Suite A","A-101",1,"residential","available",1200,"sqft",2,2,250000,"USD","Luxurious 2-bedroom apartment with ocean view","2024-01-15","2024-07-15",,,
+"Studio Unit","B-201",1,"residential","occupied",600,"sqft",1,1,150000,"USD","Cozy studio apartment","2024-02-01","2024-08-01","2024-01-01","2024-12-31"
+"Office Space 1","C-301",2,"commercial","available",2500,"sqft",,,500000,"USD","Modern office space with meeting rooms","2024-03-01","2024-09-01",,,
+"Retail Shop","G-101",2,"commercial","occupied",1800,"sqft",,,350000,"USD","Prime location retail space","2024-02-15","2024-08-15","2024-01-01","2025-12-31"
+"Penthouse Suite","PH-01",1,"residential","maintenance",3000,"sqft",4,3,1200000,"USD","Luxury penthouse with private pool","2024-03-10","2024-04-10",,,
+"Mixed Use Space","M-101",3,"mixed","reserved",2200,"sqft",1,1,450000,"USD","Combined retail and residential space","2024-02-20","2024-08-20",,,
+"Economy Studio","B-102",1,"residential","available",450,"sqft",1,1,120000,"USD","Efficient studio unit",,,,,
+"Executive Office","C-401",2,"commercial","maintenance",1500,"sqft",,,300000,"USD","Executive office suite with city view","2024-03-05","2024-09-05",,,
+"Family Unit","A-301",1,"residential","occupied",1800,"sqft",3,2,380000,"USD","Spacious family apartment","2024-01-20","2024-07-20","2024-02-01","2025-01-31"
+"Retail Corner","G-201",2,"commercial","available",2000,"sqft",,,400000,"USD","Corner retail unit with high visibility","2024-02-10","2024-08-10",,,

@@ -1,0 +1,11 @@
+name,description,type,status,address,city,state,country,postal_code,website,phone,email,total_area,area_unit,total_units
+The Grand Residences,Luxury condominium complex with modern amenities,residential,in_progress,123 Marina Boulevard,Bandar Seri Begawan,Brunei-Muara,Brunei,BN1234,https://grandresidences.com,+673 123 4567,info@grandresidences.com,50000,sqft,150
+Tech Hub Plaza,Modern office complex for tech companies,commercial,planning,456 Digital Drive,Gadong,Brunei-Muara,Brunei,BN5678,https://techhubplaza.com,+673 234 5678,contact@techhubplaza.com,75000,sqft,50
+Riverside Mixed Development,Integrated residential and commercial space,mixed,planning,789 River View Road,Bandar Seri Begawan,Brunei-Muara,Brunei,BN9012,https://riverside-mixed.com,+673 345 6789,info@riverside-mixed.com,100000,sqft,200
+Green Valley Apartments,Eco-friendly residential complex,residential,completed,321 Green Street,Tutong,Tutong,Brunei,BN3456,https://greenvalley.com,+673 456 7890,contact@greenvalley.com,30000,sqft,80
+Business Central,Premium office spaces in city center,commercial,in_progress,654 Business Avenue,Bandar Seri Begawan,Brunei-Muara,Brunei,BN7890,https://businesscentral.com,+673 567 8901,info@businesscentral.com,60000,sqft,40
+Sunset Heights,Luxury residential apartments with sea view,residential,planning,987 Coastal Road,Kuala Belait,Belait,Brunei,BN2345,https://sunsetheights.com,+673 678 9012,info@sunsetheights.com,45000,sqft,100
+Smart City Complex,Mixed-use development with smart features,mixed,in_progress,147 Innovation Street,Seria,Belait,Brunei,BN6789,https://smartcitycomplex.com,+673 789 0123,contact@smartcitycomplex.com,120000,sqft,250
+Metro Mall,Modern shopping and office complex,commercial,planning,258 Metro Avenue,Bandar Seri Begawan,Brunei-Muara,Brunei,BN0123,https://metromall.com,+673 890 1234,info@metromall.com,90000,sqft,75
+Garden Residences,Family-oriented residential community,residential,in_progress,369 Garden Road,Tutong,Tutong,Brunei,BN4567,https://gardenresidences.com,+673 901 2345,contact@gardenresidences.com,40000,sqft,120
+Innovation Hub,Tech park with office and research facilities,commercial,completed,741 Tech Park Way,Gadong,Brunei-Muara,Brunei,BN8901,https://innovationhub.com,+673 012 3456,info@innovationhub.com,80000,sqft,60
