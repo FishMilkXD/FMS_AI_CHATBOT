@@ -12,8 +12,8 @@ GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 # === file paths ===
-DOC_FOLDER = "/home/ikanbesar/Documents/ai_chatbot/test_files"
-DB_PATH = "/home/ikanbesar/Documents/ai_chatbot/chroma_db"
+DOC_FOLDER = "/Users/sphiere/Desktop/Khayri's codes/FMS_AI_CHATBOT/FMS_AI_CHATBOT/test_files"
+DB_PATH = "/Users/sphiere/Desktop/Khayri's codes/FMS_AI_CHATBOT/FMS_AI_CHATBOT/chroma_db"
 
 # === embedding model intialization ===
 EMBEDDING_MODEL = HuggingFaceEmbeddings(
